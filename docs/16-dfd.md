@@ -8,3 +8,4 @@ graph TD
     DB -->|Result Sets| Server
     Server -->|JSON Payload Response| Client
     Client -->|Renders Visual Metrics| User
+```
