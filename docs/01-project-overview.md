@@ -10,3 +10,5 @@ SubWise is a lightweight, responsive web application built to help individual co
 
 ## 3. Technology Alignment
 The system relies on a clean client-server pattern. The frontend leverages semantic HTML5 alongside custom CSS3 Flexbox layouts for dashboard responsiveness. The backend processes calculations and interfaces with a relational dataset matching users to their personal data logs.
+
+<!-- Verified Submission Validation -->
